@@ -1,5 +1,7 @@
 # Year-11-CS-Unit-7-Tutorial-Song
 
+Lucas Wu
+
 Your job is to create a class called Song.
 
 A new Song will take two parameters: title and artist. Both of these properties will be declared as private.
